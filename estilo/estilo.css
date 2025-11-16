@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}div{
+    background-color: rgb(192, 192, 216);
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(2, 2, 12);
+    margin: 100px 50px;
+}
+#box-3 img{
+    width: 180px;
+    border-radius: 5px;
+    
+}
+#box-3{
+    background-color: white;
+    padding-top: 10px;
+    width: 200px;
+    display: block;
+    margin: 50px;
+    border-radius: 5px;
+}
+p{
+    font-size: 15px;
+}
+
+
